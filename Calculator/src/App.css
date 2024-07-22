@@ -1,0 +1,17 @@
+.kg-container{
+  border: 1px solid black;
+  width: 400px;
+  height: 700px;
+  border-radius: 5px;
+  background-color: darkcyan;
+}
+.kg-center{
+  margin: 10px;
+}
+.inner-container{
+  border: 1px solid black;
+  height: 97%;
+  margin: 10px;
+  background-color: aliceblue;
+  border-radius: 5px;
+}
