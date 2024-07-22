@@ -1,22 +1,17 @@
-.bContainer{
-    height: 80%;
-    margin: 5px;
-    margin-left: 10px;
-    margin-right: 10px;
-}
 
-.buttons{
-    
+.icons{  
     width: 72px;
     height: 40px;
     margin: 10px;
     border-radius: 5px;
+    background-color: #FF9500;
+    color: #fff;
 }
-.primary{
-    background-color: blue;
-    width: 60%;
-}
-
-.danger{
-    background-color: red;
+.buttons{  
+    width: 72px;
+    height: 40px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: #505050;
+    color: #fff;
 }
